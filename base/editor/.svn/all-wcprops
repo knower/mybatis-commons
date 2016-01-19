@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/project1/!svn/ver/7/project/Scredit/src/com/syscredit/resource/base/editor
+END
+DoubleEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/project1/!svn/ver/7/project/Scredit/src/com/syscredit/resource/base/editor/DoubleEditor.java
+END
+DateEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/project1/!svn/ver/7/project/Scredit/src/com/syscredit/resource/base/editor/DateEditor.java
+END
+IntegerEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/project1/!svn/ver/7/project/Scredit/src/com/syscredit/resource/base/editor/IntegerEditor.java
+END
+LongEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/project1/!svn/ver/7/project/Scredit/src/com/syscredit/resource/base/editor/LongEditor.java
+END
